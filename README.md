@@ -1,11 +1,11 @@
 # Portfolio
 
 Hi, I am Pavel Lyubovin.  
-I am data scientist.  
-And this is my public portfolio  
+I am a data scientist.  
+This is my public portfolio.  
 
-On the inside, you will find tasks by topic:   
+Here you will find cases by topics:   
 - NLP (natural language processing)  
 - Python  
 - Tableau  
-and so on  
+etc  
