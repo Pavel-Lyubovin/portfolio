@@ -1,0 +1,15 @@
+worker_id,document_id,label
+11,777,A
+22,777,B
+33,777,A
+11,888,good
+22,888,good
+33,888,good
+44,888,bad
+11,999,good
+22,999,good
+33,999,bad
+44,999,good
+55,999,unknown
+44,111,A
+55,111,B
