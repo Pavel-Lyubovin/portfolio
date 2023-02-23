@@ -1,4 +1,1 @@
-#!/bin/sh
-#
-# An example hook script to prepare the commit log message.
-# Called by "git commit" with the name of the file that has the
+Курс [Анализ данных (Введение в Python и обработку данных)](https://stepic.org/course/126333/)
